@@ -1,2 +1,1 @@
 # ionicApp
-# ionicTest
